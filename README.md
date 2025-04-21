@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web and App Development<br/> 
 - 👯 I’m looking to collaborate on Data Science, Data Analysis and Web & Systems Development Projects<br/> 
 - 📫 How to reach me: [instagram](https://www.instagram.com/__pkuyoh__/), [LinkedIn](www.linkedin.com/in/paul-kuyoh-64a13a162)<br/> 
-- ⚡ Fun fact: I like biking and nature walks
+- ⚡ Fun fact: Enthusiastic about Finance, Investing and Accounting
 
 
 
