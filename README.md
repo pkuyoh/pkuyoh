@@ -1,9 +1,9 @@
 ## Hi, I'm Paul ✨
 
-- 🔭 Data Science student at IU<br/> 
+- 🔭 Data Science student at IU International University of Applied Sciences<br/> 
 - 🌱 I’m currently learning Web Development<br/> 
-- 👯 I’m looking to collaborate on Data Science and Web Development Projects<br/> 
-- 📫 How to reach me: [instagram](https://www.instagram.com/__pkuyoh__/)<br/> 
+- 👯 I’m looking to collaborate on Data Science, Data Analysis and Web & Systems Development Projects<br/> 
+- 📫 How to reach me: [instagram](https://www.instagram.com/__pkuyoh__/), [LinkedIn](www.linkedin.com/in/paul-kuyoh-64a13a162)<br/> 
 - ⚡ Fun fact: I like biking and nature walks
 
 
